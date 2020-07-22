@@ -1,0 +1,49 @@
+Filename as given in marsyas dataset.
+
+Contains features for the following ten genres: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae & rock.
+
+
+tag
+tempo
+sort
+The speed at which a passage of music is played
+
+tag
+beats
+sort
+Rythmic unit in music
+
+tag
+chroma_stft
+sort
+Short Time Fourier Transform
+
+tag
+rmse
+sort
+Root Mean Square Error
+
+tag
+spectral_centroid
+sort
+Indicates where the "center of mass" of the spectrum is located.
+
+tag
+spectral_bandwidth
+sort
+It is the Wavelength interval in which a radiated spectral quantity is not less than half its maximum value
+
+tag
+rolloff
+sort
+Roll-off is the steepness of a transmission function with frequency
+
+tag
+zero_crossing_rate
+sort
+The rate at which the signal changes from positive to negative or back
+
+tag
+mfcc1
+sort
+Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC.
